@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[     14922,        305]
-NotebookOptionsPosition[     14128,        285]
-NotebookOutlinePosition[     14547,        301]
-CellTagsIndexPosition[     14504,        298]
+NotebookDataLength[     14964,        305]
+NotebookOptionsPosition[     14188,        285]
+NotebookOutlinePosition[     14590,        301]
+CellTagsIndexPosition[     14547,        298]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -26,7 +26,7 @@ Cell[TextData[{
   FontWeight->"Plain"],
  StyleBox["\nHomework 4: ",
   FontSize->16],
- StyleBox["B-spline Curve Design, ConS, and 3D Printing",
+ StyleBox["B-spline Curve Design, ConS, and 3D Printing\nAnish Nalla",
   FontSize->16,
   FontWeight->"Plain"],
  "\n "
@@ -44,7 +44,7 @@ Cell[TextData[{
    3.6876345494631276`*^9}, {3.6876378963031387`*^9, 3.687637900062745*^9}, {
    3.6876385769537416`*^9, 3.68763858712696*^9}, {3.6876386528195395`*^9, 
    3.6876386528975396`*^9}, {3.7816383692774763`*^9, 3.781638382009056*^9}, 
-   3.8767593307637415`*^9},
+   3.8767593307637415`*^9, {3.9409730153825912`*^9, 3.94097301793412*^9}},
  FontFamily->"Arial",
  FontSize->24,
  FontWeight->"Bold",ExpressionUUID->"31bcb9cf-7e32-418c-a5a6-9dc59fba52e6"],
@@ -283,9 +283,9 @@ Cell[BoxData[
 9f20f2ea572e"]
 }, Open  ]]
 },
-WindowSize->{723., 574.8},
-WindowMargins->{{39, Automatic}, {-16.799999999999955`, Automatic}},
-FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (June 16, 2022)",
+WindowSize->{1440, 747.75},
+WindowMargins->{{-6, Automatic}, {Automatic, -6}},
+FrontEndVersion->"14.1 for Microsoft Windows (64-bit) (July 16, 2024)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"009fa702-b310-4963-9730-dc1437726455"
 ]
@@ -300,12 +300,12 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[557, 20, 1443, 29, 109, "Text",ExpressionUUID->"31bcb9cf-7e32-418c-a5a6-9dc59fba52e6"],
-Cell[2003, 51, 8684, 152, 1152, "Text",ExpressionUUID->"c12bff7f-ac25-464b-a012-cd2627ddc55b"],
+Cell[557, 20, 1503, 29, 125, "Text",ExpressionUUID->"31bcb9cf-7e32-418c-a5a6-9dc59fba52e6"],
+Cell[2063, 51, 8684, 152, 850, "Text",ExpressionUUID->"c12bff7f-ac25-464b-a012-cd2627ddc55b"],
 Cell[CellGroupData[{
-Cell[10712, 207, 1240, 19, 161, "Subsubtitle",ExpressionUUID->"a58515e2-0711-4eb7-a0bf-77b4f3387325"],
-Cell[11955, 228, 216, 4, 35, "Text",ExpressionUUID->"83aca6e1-c5d6-4a67-a147-48008fdb2201"],
-Cell[12174, 234, 1938, 48, 219, "Input",ExpressionUUID->"4389746f-ee1c-44ed-b72a-9f20f2ea572e"]
+Cell[10772, 207, 1240, 19, 161, "Subsubtitle",ExpressionUUID->"a58515e2-0711-4eb7-a0bf-77b4f3387325"],
+Cell[12015, 228, 216, 4, 35, "Text",ExpressionUUID->"83aca6e1-c5d6-4a67-a147-48008fdb2201"],
+Cell[12234, 234, 1938, 48, 219, "Input",ExpressionUUID->"4389746f-ee1c-44ed-b72a-9f20f2ea572e"]
 }, Open  ]]
 }
 ]
